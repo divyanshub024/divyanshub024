@@ -6,8 +6,8 @@ I enjoy simplifying complex problems through tech, building tools for developers
 
 ## 🚀 What I’m Up To
 
--	🔨 Building: Mirai & BettrDo
--	🌍 Community: Organizer of Flutter Abu Dhabi & Dubai
+-	🔨 Building: [Mirai](https://github.com/BuildMirai/mirai) & [BettrDo](https://bettrdo.com/)
+-	🌍 Community: Organizer of [Flutter Abu Dhabi & Dubai](https://www.meetup.com/flutter-ad/)
 -	📚 Speaking: Sharing insights about Flutter, Dart, and Server-Driven UIs
 
 ## 💬 Let’s Talk About
