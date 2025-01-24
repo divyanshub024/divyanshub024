@@ -9,6 +9,7 @@ I enjoy simplifying complex problems through tech, building tools for developers
 -	🔨 Building: [Mirai](https://github.com/BuildMirai/mirai) & [BettrDo](https://bettrdo.com/)
 -	🌍 Community: Organizer of [Flutter Abu Dhabi & Dubai](https://www.meetup.com/flutter-ad/)
 -	📚 Speaking: Sharing insights about Flutter, Dart, and Server-Driven UIs
+-	✍️ Blogs: Check out my blogs on [Medium](https://medium.com/@divyanshub024).
 
 ## 💬 Let’s Talk About
 
@@ -22,8 +23,6 @@ I enjoy simplifying complex problems through tech, building tools for developers
 
 “More coffee, more code. Better coffee, better code!” 🚀
 
-  
-  
 ## 📊 Github Stats 
 
 [![Divyanshu's Github Stats](https://github-readme-stats.vercel.app/api?username=divyanshub024&count_private=true&theme=default&show_icons=true&rank_icon=percentile&line_height=24)](https://github.com/divyanshub024)
