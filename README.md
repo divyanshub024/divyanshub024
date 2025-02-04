@@ -1,19 +1,19 @@
 ## 👋 Hi there!
 
-I’m Divyanshu Bhargava, a Google Developer Expert (GDE) in Flutter & Dart, Builder of [Mirai](https://github.com/BuildMirai/mirai) – a server-driven UI framework, and [BettrDo](https://bettrdo.com/) – an all-in-one productivity app. I also organize Flutter Abu Dhabi & Dubai, fostering a thriving developer community.
+I’m Divyanshu Bhargava, a Google Developer Expert (GDE) in Flutter & Dart, Builder of [Stac](https://github.com/StacDev/stac) – a server-driven UI framework, and [BettrDo](https://bettrdo.com/) – an all-in-one productivity app. I also organize Flutter Abu Dhabi & Dubai, fostering a thriving developer community.
 
 I enjoy simplifying complex problems through tech, building tools for developers, and sharing knowledge through workshops and talks. 🚀
 
 ## 🚀 What I’m Up To
 
--	🔨 Building: [Mirai](https://github.com/BuildMirai/mirai) & [BettrDo](https://bettrdo.com/)
+-	🔨 Building: [Stac](https://github.com/StacDev/stac) & [BettrDo](https://bettrdo.com/)
 -	🌍 Community: Organizer of [Flutter Abu Dhabi & Dubai](https://www.meetup.com/flutter-ad/)
 -	📚 Speaking: Sharing insights about Flutter, Dart, and Server-Driven UIs
 -	✍️ Blogs: Check out my blogs on [Medium](https://medium.com/@divyanshub024).
 
 ## 💬 Let’s Talk About
 
--	🛠️ [Mirai](https://github.com/BuildMirai/mirai) – Server-Driven UI Framework
+-	🛠️ [Stac](https://github.com/StacDev/stac) – Server-Driven UI Framework
 - 📱 [Flutter](https://flutter.dev) – Building Cross-Platform Apps
 -	💻 [Dart](https://dart.dev). – Programming Language for Flutter App Development
 
